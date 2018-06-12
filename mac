@@ -63,8 +63,11 @@ brew "git"
 brew "openssl"
 brew "yarn"
 brew "node"
+brew "go"
+brew "dep"
 EOF
 
+brew cask install google-chrome
 brew cask install docker
 brew cask install slack
 brew cask install visual-studio-code

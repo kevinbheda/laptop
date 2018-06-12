@@ -50,6 +50,7 @@ Or, attach the whole log file as an attachment.
 macOS tools:
 
 + [Homebrew](https://brew.sh) for managing operating system libraries.
++ [Google Chrome](https://www.google.com/chrome/) for brower
 + [Slack](https://slack.com) for communication
 + [VSCode](https://code.visualstudio.com/) for code editor
 + [Docker](https://www.docker.com/) for container management
@@ -87,6 +88,3 @@ Edit the mac file. Document in the README.md file. Follow shell style guidelines
 ```bash
 brew install shellcheck
 ```
-
-Thank you, contributors!
-By participating in this project, you agree to abide by the thoughtbot code of conduct.
