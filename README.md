@@ -15,7 +15,7 @@ Older versions may work but aren't regularly tested. Bug reports for older versi
 Download the script:
 
 ```bash
-curl --remote-name https://raw.githubusercontent.com/tsocial/laptop/master/mac
+curl --remote-name https://raw.githubusercontent.com/kevinbheda/laptop/master/mac
 ```
 
 Review the script (avoid running scripts you haven't read!):
